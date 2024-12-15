@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb05b3f402bdf194b989d46e170d27d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerupPrefab: {fileID: 5697393953525700635, guid: 1bdcba84f21151945a14ec66a68eb2a6, type: 3}
+  - obstaclePrefab: {fileID: 2137164028668048380, guid: 6060f36808a354346bee31f8f4571a8e, type: 3}
+  - kirbyPrefab: {fileID: 7397744205581741900, guid: 6040b1361abb62f43b08d9b54a602c36, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
